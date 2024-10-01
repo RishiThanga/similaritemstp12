@@ -1,1 +1,6 @@
 fastapi[all]
+pandas
+scikit-learn
+scipy
+aiohttp
+aiocron
